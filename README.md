@@ -1,3 +1,5 @@
 # ACSpider
 
-UUPs - acfun 爬虫项目，相关接口见wiki
+已上传测试程序，可以爬取A站全站视频，用法见文件内注释
+
+使用的api接口见wiki中说明
